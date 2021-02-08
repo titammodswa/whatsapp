@@ -1,18 +1,10 @@
 {
 	"version": "1.0",
-	"download": "https://titammods.weebly.com/",
+	"download": "https://titammods.weebly.com",
 	"update": [
 		{
-			"languaje": "es",
-			"changelog": "changelog-es.html"
-		},
-		{
-			"languaje": "en",
-			"changelog": "changelog-en.html"
-		},
-		{
 			"languaje": "pt",
-			"changelog": "changelog-pt.html"
+			"changelog": "https://raw.githubusercontent.com/titammodswa/whatsapp/main/changelog-pt.html"
 		}
 	]
 }
