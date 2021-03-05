@@ -1,5 +1,5 @@
 {
-	"version": "3.5",
+	"version": "1.0",
 	"download": "https://titammods.weebly.com",
 	"update": [
 		{
